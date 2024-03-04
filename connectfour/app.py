@@ -1,6 +1,6 @@
 from flask import Flask, render_template, jsonify, request
 import random #Just for the demo of AI move. Will be removed after AI implementation
-
+#teste de alteracao
 app = Flask(__name__)
 
 # Function to initialize the game board
